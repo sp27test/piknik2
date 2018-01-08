@@ -748,7 +748,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"index.html#form1-v\" data-toolbar=\"-mbrBtnMove\">Zapisz się!</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/;)-800x600.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
